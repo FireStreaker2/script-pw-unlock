@@ -17,9 +17,9 @@ In order to unlock the webpage/remove the iframe, you must run ``unlock("key")``
 
 If you can't access the dev console to run the code I would suggest using a script injector to run it instead, as it has the exact same result.     
 
-If you would like to suggest anything or change something, feel free to DM me on discord @ FireStreaker2#0001 or open a pull request    
+If you would like to suggest anything or change something, feel free to DM me on discord @ FireStreaker2#0001 or open a pull request.    
 
-
+Also feel free to star this repository!    
 
 Extra Note: The IP Address displayed is a random IP, the code does not have an IP Logger.     
 
